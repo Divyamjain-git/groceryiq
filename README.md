@@ -6,10 +6,8 @@ from your earlier download) for the full design doc.
 
 ## Quickstart (Week 1 goal: this all runs locally)
 
-1. Copy the env file and fill in secrets:
-   ```
-   cp .env.example .env
-   ```
+1. Create a local `.env` file and configure the database, JWT, Redis, and API settings.
+   Keep this file private; it is excluded by `.gitignore`.
 
 2. Start infra (Postgres, Redis, Ollama):
    ```
