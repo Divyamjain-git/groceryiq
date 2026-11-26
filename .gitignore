@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+.next/
+venv/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.DS_Store
+apps/core-service/prisma/migrations/

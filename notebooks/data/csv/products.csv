@@ -1,0 +1,41 @@
+product_id,sku,name,category,unit,reorder_point,unit_cost_cents,unit_price_cents
+07afc8f156dc,WHOLE-MILK-1L,Whole Milk 1L,Dairy,each,30.0,107,125
+1c7ff71fac09,CHEDDAR-CHEESE-200G,Cheddar Cheese 200g,Dairy,each,18.0,175,328
+0f7e72697aeb,GREEK-YOGURT-500G,Greek Yogurt 500g,Dairy,each,14.0,102,658
+2f6ca93bfb29,BUTTER-250G,Butter 250g,Dairy,each,12.0,352,532
+615255f07f42,CREAM-CHEESE-150G,Cream Cheese 150g,Dairy,each,11.0,65,195
+6999418fa7ea,MOZZARELLA-200G,Mozzarella 200g,Dairy,each,16.0,169,617
+cf94e7e8a2e4,SKIMMED-MILK-1L,Skimmed Milk 1L,Dairy,each,29.0,63,674
+6bf73c144773,PANEER-200G,Paneer 200g,Dairy,each,16.0,382,658
+109320f955ec,BANANAS-1KG,Bananas 1kg,Produce,each,,162,559
+9d5c86c20193,TOMATOES-1KG,Tomatoes 1kg,Produce,each,28.0,192,106
+4d902957c6a8,SPINACH-200G,Spinach 200g,Produce,each,15.0,266,448
+ac414495ca36,APPLES-1KG,Apples 1kg,Produce,each,18.0,129,320
+dd7cad2bb5e8,ONIONS-1KG,Onions 1kg,Produce,each,20.0,102,194
+d522d54392ec,POTATOES-2KG,Potatoes 2kg,Produce,each,22.0,99,467
+1cca13f6fdc7,CARROTS-500G,Carrots 500g,Produce,each,21.0,359,370
+94d3acf6ee06,LEMONS-500G,Lemons 500g,Produce,each,11.0,285,649
+228089cafeb1,WHITE-BREAD,White Bread,Bakery,each,13.0,243,180
+8aa6cd59d493,WHOLE-WHEAT-BREAD,Whole Wheat Bread,Bakery,each,27.0,200,470
+5e79f138c1ad,CROISSANTS-4PK,Croissants (4pk),Bakery,each,28.0,148,171
+0ae9c7212db6,DINNER-ROLLS-6PK,Dinner Rolls (6pk),Bakery,each,11.0,388,333
+3679c37e1ff7,BAGELS-4PK,Bagels (4pk),Bakery,each,19.0,90,338
+e0cee74d5501,MUFFINS-4PK,Muffins (4pk),Bakery,each,13.0,244,384
+ff5e3c19bf03,POTATO-CHIPS-150G,Potato Chips 150g,Snacks,each,24.0,375,473
+ddb9b2e7a449,SALSA-DIP-250G,Salsa Dip 250g,Snacks,each,15.0,239,463
+d62525050a3f,TORTILLA-CHIPS-200G,Tortilla Chips 200g,Snacks,each,16.0,393,373
+5b6b199ee59a,CHOCOLATE-BAR,Chocolate Bar,Snacks,each,30.0,86,275
+da3d7abbc75a,MIXED-NUTS-200G,Mixed Nuts 200g,Snacks,each,27.0,175,267
+fafee58f9c0b,POPCORN-100G,Popcorn 100g,Snacks,each,24.0,244,376
+29e50779c283,COOKIES-300G,Cookies 300g,Snacks,each,30.0,335,324
+109946e0183a,GRANOLA-BAR-6PK,Granola Bar (6pk),Snacks,each,20.0,78,334
+80d39c492a2f,RICE-1KG,Rice 1kg,Pantry,each,11.0,211,510
+ba0a6e1e9d84,PASTA-500G,Pasta 500g,Pantry,each,18.0,83,316
+d2140694657f,COOKING-OIL-1L,Cooking Oil 1L,Pantry,each,28.0,211,317
+b2cf2090ebbd,CANNED-TOMATOES,Canned Tomatoes,Pantry,each,30.0,305,505
+532d8a6b05a0,SUGAR-1KG,Sugar 1kg,Pantry,each,30.0,284,246
+d27b7927dadf,SALT-500G,Salt 500g,Pantry,each,18.0,121,352
+ce9fa59e576c,FLOUR-1KG,Flour 1kg,Pantry,each,27.0,325,369
+eff4b3109323,SOY-SAUCE-250ML,Soy Sauce 250ml,Pantry,each,28.0,269,697
+3d4aae39ef92,INSTANT-NOODLES-5PK,Instant Noodles (5pk),Pantry,each,22.0,235,324
+9778d07b210e,TEA-BAGS-100PK,Tea Bags (100pk),Pantry,each,14.0,310,605
